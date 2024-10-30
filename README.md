@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -100,13 +100,6 @@
         </div>
       </div>
     </div>
-
-    <!-- Footer. This section contains an ad for W3Schools Spaces. You can leave it to support us. -->
-    <footer class="w3-container w3-center w3-margin-top w3-margin-bottom w3-padding-top-48">
-      <a class="w3-margin-bottom" href="https://www.w3schools.com/spaces" title=
-      </a> 
-    <!-- End footer -->
-    </footer>
-
+    
   </body>
 </html>
